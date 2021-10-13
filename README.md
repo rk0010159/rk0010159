@@ -1,0 +1,5 @@
+- 👋 Hi, I’m rohit
+- 👀 I’m interested in open source projects
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on open source projects related to java
+- 📫 How to reach me mail me: rk0010159@gmail.com
